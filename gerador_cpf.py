@@ -23,3 +23,5 @@ for index in range(19):
         novo_cpf += str(d)          # Concatena o digito gerado no novo cpf
 
 print(novo_cpf)
+
+a = novo_cpf
